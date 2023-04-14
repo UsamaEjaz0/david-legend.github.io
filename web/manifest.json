@@ -1,11 +1,11 @@
 {
-    "name": "David Legend Portfolio",
-    "short_name": "David Legend Portfolio",
+    "name": "Usama Ejaz Portfolio",
+    "short_name": "Usama Ejaz Portfolio",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Portfolio website for David Legend Portfolio. This portfolio chowcases his education, skills & expertise, experience, acheivements and hobbies.",
+    "description": "Portfolio website for Usama Ejaz. This portfolio showcases his education, skills & expertise, experience, acheivements and hobbies.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
